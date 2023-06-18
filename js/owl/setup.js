@@ -4,13 +4,13 @@ $('.owl-carousel').owlCarousel({
     nav:false,
     responsive:{
         0:{
-            items:1
+            items:4
         },
         600:{
-            items:3
+            items:6
         },
         1000:{
-            items:5
+            items:8
         }
     }
 })
